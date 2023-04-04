@@ -1,7 +1,7 @@
-This is the OpenZeppelin defender autotask code for:
+This is the OpenZeppelin defender autotask code for: <br/>
 
-Locking speculations
+Locking speculations <br/>
 
-Scoring contests
+Scoring contests <br/>
 
 Scoring speculations
